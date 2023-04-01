@@ -1,0 +1,2 @@
+# Leetcode-ChatGPT-Solution
+🤯
